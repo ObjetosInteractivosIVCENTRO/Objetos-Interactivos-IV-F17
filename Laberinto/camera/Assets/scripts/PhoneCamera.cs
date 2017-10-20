@@ -357,4 +357,35 @@ public class PhoneCamera : MonoBehaviour {
 	}
 
 
+	/*
+	 *****************************************
+	 *****************************************
+	 * Timer METHODS
+	 *****************************************
+	 *****************************************
+	 */
+
+
+	private void ExampleTimer(){
+
+		System.Diagnostics.Stopwatch stopwatch = new System.Diagnostics.Stopwatch();
+		stopwatch.Start();
+
+		////////////////////////////////////////////////
+
+		// Your methods here: 
+
+		// Stuff
+
+		// Stuff
+
+		////////////////////////////////////////////////
+
+		stopwatch.Stop();
+
+		print ("TIME Elapsed :: " + stopwatch.Elapsed);
+		stopwatch.Reset();
+	}
+
+
 }
