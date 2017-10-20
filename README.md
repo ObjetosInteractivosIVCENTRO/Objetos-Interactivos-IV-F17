@@ -1,7 +1,7 @@
 # Objetos Interactivos IV, Fall 2017
 
 
-El cueso esta diseñado para el desarrollo de historias interactivas usando tecnologías de Realidad Aumentada y Realidad Virtual (AR/VR). Las plataformas de desarrollo del curso será Vuforia SDK y Google Cardboard. El curso se enfoca tanto en la exploración tecnológica como narrativa de la producción de dichas experiencias.
+El curso esta diseñado para el desarrollo de historias interactivas usando tecnologías de Realidad Aumentada y Realidad Virtual (AR/VR). Las plataformas de desarrollo del curso será Vuforia SDK y Google Cardboard. El curso se enfoca tanto en la exploración tecnológica como narrativa de la producción de dichas experiencias.
 
 ### Info:
   - Adrian Santuario, Jueves, 14:00 - 18:00, C306.
